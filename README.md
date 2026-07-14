@@ -211,28 +211,15 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 
 ## <img src="https://img.shields.io/badge/-10-1E1B2E?style=flat-square"/> GitHub Achievements
 
-<div align="center">
-
-<a href="https://github.com/Bhumi0189?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="140"/>
-</a>
-
-<a href="https://github.com/Bhumi0189?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="140"/>
-</a>
-
-</div>
-
-<div align="center">
-
-### 🏅 Achievements Earned
-
-| Badge | Achievement |
-|------|-------------|
-| 🦈 | Pull Shark |
-| 🎯 | YOLO |
-
-</div>
+<p align="left">
+  <a href="https://github.com/Bhumi0189?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" alt="YOLO"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Bhumi0189?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" alt="Pull Shark"/>
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
