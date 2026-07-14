@@ -190,8 +190,8 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 ## <img src="https://img.shields.io/badge/-08-0D0B1A?style=flat-square"/> GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bhumi0189&show_icons=true&count_private=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumi0189&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=C4B5FD" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Bhumi0189&show_icons=true&count_private=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhumi0189&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=C4B5FD" height="165"/>
 </div>
 
 <div align="center">
@@ -203,7 +203,7 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 ## <img src="https://img.shields.io/badge/-09-0D0B1A?style=flat-square"/> GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bhumi0189&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Bhumi0189&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
