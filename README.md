@@ -214,31 +214,23 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 <div align="center">
 
 <a href="https://github.com/Bhumi0189?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="140"/>
 </a>
 
 <a href="https://github.com/Bhumi0189?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
-</a>
-
-<a href="https://github.com/Bhumi0189?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
-</a>
-
-<a href="https://github.com/Bhumi0189?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="120"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="140"/>
 </a>
 
 </div>
 
 <div align="center">
 
-| Achievement | Status |
-|-------------|--------|
-| 🦈 Pull Shark | ✅ Earned |
-| 🎯 YOLO | ✅ Earned |
-| ⚡ Quickdraw | ✅ Earned (if unlocked) |
-| 🤝 Pair Extraordinaire | ✅ Earned (if unlocked) |
+### 🏅 Achievements Earned
+
+| Badge | Achievement |
+|------|-------------|
+| 🦈 | Pull Shark |
+| 🎯 | YOLO |
 
 </div>
 
