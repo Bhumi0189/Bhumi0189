@@ -1,36 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:4C1D95&height=250&section=header&text=BHOOMI%20MALVIYA&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI-Integrated%20Product%20Builder&descAlignY=55&descSize=18&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:4C1D95&height=260&section=header&text=BHOOMI%20MALVIYA&fontSize=50&fontColor=E9D5FF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI-Integrated%20Product%20Builder&descAlignY=53&descSize=18&descColor=C4B5FD" width="100%"/>
 
 <a href="https://www.linkedin.com/in/Bhumimalviya05">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Shipping+Production-Grade+MERN+Applications;Engineering+AI-Integrated+Full-Stack+Systems;National+Finalist+%40+Smart+India+Hackathon+2024;Open+Source+Contributor+%40+Apache+Superset" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Shipping+Production-Grade+MERN+Applications;Engineering+AI-Integrated+Full-Stack+Systems;National+Finalist+%40+Smart+India+Hackathon+2024;Open+Source+Contributor+%40+Apache+Superset" alt="Typing SVG"/>
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CGPA-9.17%2F10-6D28D9?style=for-the-badge&labelColor=1E1B2E"/>
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&labelColor=1E1B2E"/>
-<img src="https://img.shields.io/badge/Location-Bhopal%2C%20India-6D28D9?style=for-the-badge&labelColor=1E1B2E"/>
-
-<br/><br/>
-
-<a href="https://kiran-sales.vercel.app/"><img src="https://img.shields.io/badge/Live%20Project-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="https://www.linkedin.com/in/Bhumimalviya05"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="mailto:mbhumi916@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="https://github.com/Bhumi0189"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B2E"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Bhumi0189&style=flat-square&color=7C3AED&labelColor=1E1B2E&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Bhumi0189?style=flat-square&color=7C3AED&labelColor=1E1B2E&label=FOLLOWERS"/>
-
-</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
+<img src="https://img.shields.io/badge/CGPA-9.17%2F10-6D28D9?style=for-the-badge&labelColor=0D0B1A"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&labelColor=0D0B1A"/>
+<img src="https://img.shields.io/badge/Location-Bhopal%2C%20India-6D28D9?style=for-the-badge&labelColor=0D0B1A"/>
 
-## <img src="https://img.shields.io/badge/-01-1E1B2E?style=flat-square"/> About
+<br/><br/>
+
+<a href="https://kiran-sales.vercel.app/"><img src="https://img.shields.io/badge/Live%20Project-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0B1A"/></a>
+<a href="https://www.linkedin.com/in/Bhumimalviya05"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0B1A"/></a>
+<a href="mailto:mbhumi916@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0B1A"/></a>
+<a href="https://github.com/Bhumi0189"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B1A"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
+
+## <img src="https://img.shields.io/badge/-01-0D0B1A?style=flat-square"/> About
 
 I'm a Full Stack Software Engineer specializing in the **MERN stack**, focused on building production-grade, AI-integrated web systems rather than isolated demos. My work spans end-to-end ownership — architecture, API design, authentication, deployment, and performance optimization — most recently shipping a live e-commerce platform serving real customers with a **99/100 Lighthouse Performance score**.
 
@@ -45,9 +38,9 @@ open_to:
   - Internship / New-Grad Software Engineering positions
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-02-1E1B2E?style=flat-square"/> Tech Stack
+## <img src="https://img.shields.io/badge/-02-0D0B1A?style=flat-square"/> Tech Stack
 
 **Languages**
 <p><img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark"/></p>
@@ -61,9 +54,9 @@ open_to:
 **Cloud, DevOps & Tooling**
 <p><img src="https://skillicons.dev/icons?i=vercel,git,github,postman,vscode&theme=dark"/></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-03-1E1B2E?style=flat-square"/> Applied AI Expertise
+## <img src="https://img.shields.io/badge/-03-0D0B1A?style=flat-square"/> Applied AI Expertise
 
 <div align="center">
 
@@ -76,9 +69,9 @@ open_to:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-04-1E1B2E?style=flat-square"/> Featured Projects
+## <img src="https://img.shields.io/badge/-04-0D0B1A?style=flat-square"/> Featured Projects
 
 <details open>
 <summary><b>🛒 Kiran Sales — Production E-Commerce Platform</b></summary>
@@ -153,9 +146,9 @@ Responsive real estate platform with smart property search, virtual tours, and A
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-05-1E1B2E?style=flat-square"/> Experience
+## <img src="https://img.shields.io/badge/-05-0D0B1A?style=flat-square"/> Experience
 
 **Freelance Full Stack Developer** · Kiran Sales (Medical Apparel E-Commerce)
 `Oct 2025 — Present`
@@ -168,9 +161,9 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Vercel` `JWT`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-06-1E1B2E?style=flat-square"/> Achievements
+## <img src="https://img.shields.io/badge/-06-0D0B1A?style=flat-square"/> Achievements
 
 <div align="center">
 
@@ -182,44 +175,40 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-07-1E1B2E?style=flat-square"/> GitHub Contribution Graph
+## <img src="https://img.shields.io/badge/-07-0D0B1A?style=flat-square"/> GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bhumi0189/Bhumi0189/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://ghchart.rshah.org/8B5CF6/Bhumi0189" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-08-1E1B2E?style=flat-square"/> GitHub Analytics
+## <img src="https://img.shields.io/badge/-08-0D0B1A?style=flat-square"/> GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bhumi0189&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumi0189&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bhumi0189&show_icons=true&count_private=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumi0189&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=C4B5FD" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumi0189&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumi0189&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumi0189&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
-
-## <img src="https://img.shields.io/badge/-09-1E1B2E?style=flat-square"/> GitHub Trophies
+## <img src="https://img.shields.io/badge/-09-0D0B1A?style=flat-square"/> GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Bhumi0189&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-10-1E1B2E?style=flat-square"/> Current Focus
+## <img src="https://img.shields.io/badge/-10-0D0B1A?style=flat-square"/> Current Focus
 
 ```yaml
 learning:
@@ -237,15 +226,15 @@ open_to:
   - Internship / new-grad Software Engineering positions
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=3&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-11-1E1B2E?style=flat-square"/> Connect
+## <img src="https://img.shields.io/badge/-11-0D0B1A?style=flat-square"/> Connect
 
 <p align="center">
-<a href="mailto:mbhumi916@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="https://www.linkedin.com/in/Bhumimalviya05"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="https://github.com/Bhumi0189"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="https://kiran-sales.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E"/></a>
+<a href="mailto:mbhumi916@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0B1A"/></a>
+<a href="https://www.linkedin.com/in/Bhumimalviya05"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0B1A"/></a>
+<a href="https://github.com/Bhumi0189"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B1A"/></a>
+<a href="https://kiran-sales.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0B1A"/></a>
 </p>
 
 <div align="center">
