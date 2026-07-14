@@ -185,7 +185,6 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 
 </div>
 
-<sub><i>Real contribution calendar, generated directly from the GitHub API via a scheduled GitHub Action (not a third-party approximation). Renders once the snake workflow has run — see setup note below.</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
@@ -213,7 +212,10 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 ## <img src="https://img.shields.io/badge/-10-1E1B2E?style=flat-square"/> GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Bhumi0189&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bhumi0189&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10"/>
+
+<br/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
