@@ -209,13 +209,37 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-10-1E1B2E?style=flat-square"/> GitHub Trophies
+## <img src="https://img.shields.io/badge/-10-1E1B2E?style=flat-square"/> GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhumi0189&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10"/>
+<a href="https://github.com/Bhumi0189?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
+</a>
 
-<br/>
+<a href="https://github.com/Bhumi0189?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
+</a>
+
+<a href="https://github.com/Bhumi0189?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
+</a>
+
+<a href="https://github.com/Bhumi0189?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="120"/>
+</a>
+
+</div>
+
+<div align="center">
+
+| Achievement | Status |
+|-------------|--------|
+| 🦈 Pull Shark | ✅ Earned |
+| 🎯 YOLO | ✅ Earned |
+| ⚡ Quickdraw | ✅ Earned (if unlocked) |
+| 🤝 Pair Extraordinaire | ✅ Earned (if unlocked) |
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
