@@ -23,7 +23,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Bhumi0189&style=flat-square&color=7C3AED&labelColor=1E1B2E&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Bhumi0189?style=flat-square&color=7C3AED&labelColor=1E1B2E&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Bhumi0189?style=flat-square&color=7C3AED&labelColor=1E1B2E&label=STARS"/>
 
 </div>
 
@@ -151,7 +150,6 @@ Responsive real estate platform with smart property search, virtual tours, and A
 | **Performance** | Automated preference-matching search, no manual filtering |
 | **Security** | Standard authenticated workflows |
 | **Impact** | Automated lead-generation workflows delivering formatted inquiries instantly to agents |
-| **Repository** | *Link pending* |
 
 </details>
 
@@ -180,35 +178,23 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 |---|---|
 | 🏆 Smart India Hackathon 2024 — National Finalist | Selected among top teams nationwide for SIH 1620, an Intelligent Queuing Model for OPD healthcare optimization |
 | 🔧 Open Source Contributor — Apache Superset | Merged PR #37262 covering TypeScript migration and bug fixes, reviewed by the global Superset developer community |
+| 📜 Full Stack Development & Java with DSA | Apna College — hands-on MERN stack, DSA, and scalable web application training |
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-07-1E1B2E?style=flat-square"/> Certifications
+## <img src="https://img.shields.io/badge/-07-1E1B2E?style=flat-square"/> GitHub Contribution Graph
 
-**Apna College**
+<div align="center">
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Development%20%26%20Java%20with%20DSA-8B5CF6?style=for-the-badge&labelColor=1E1B2E"/>
+<img src="https://raw.githubusercontent.com/Bhumi0189/Bhumi0189/output/github-contribution-grid-snake-dark.svg"/>
 
-> *Add additional certifications (AWS / Oracle / NPTEL / Cisco, etc.) here as you earn them.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
-
-## <img src="https://img.shields.io/badge/-08-1E1B2E?style=flat-square"/> Coding Profiles
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E1B2E"/></a>
-</p>
-
-<p align="center"><i>Replace the # links above with your real profile URLs.</i></p>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-09-1E1B2E?style=flat-square"/> GitHub Analytics
+## <img src="https://img.shields.io/badge/-08-1E1B2E?style=flat-square"/> GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Bhumi0189&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="165"/>
@@ -219,9 +205,13 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumi0189&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD"/>
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumi0189&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true"/>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-10-1E1B2E?style=flat-square"/> GitHub Trophies
+## <img src="https://img.shields.io/badge/-09-1E1B2E?style=flat-square"/> GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Bhumi0189&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
@@ -229,23 +219,7 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-11-1E1B2E?style=flat-square"/> Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumi0189&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
-
-## <img src="https://img.shields.io/badge/-12-1E1B2E?style=flat-square"/> Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Bhumi0189/Bhumi0189/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
-
-## <img src="https://img.shields.io/badge/-13-1E1B2E?style=flat-square"/> Current Focus
+## <img src="https://img.shields.io/badge/-10-1E1B2E?style=flat-square"/> Current Focus
 
 ```yaml
 learning:
@@ -265,7 +239,7 @@ open_to:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-14-1E1B2E?style=flat-square"/> Connect
+## <img src="https://img.shields.io/badge/-11-1E1B2E?style=flat-square"/> Connect
 
 <p align="center">
 <a href="mailto:mbhumi916@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B2E"/></a>
