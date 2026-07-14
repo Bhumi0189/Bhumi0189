@@ -181,7 +181,7 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/8B5CF6/Bhumi0189" width="100%"/>
+<img src="https://raw.githubusercontent.com/Bhumi0189/Bhumi0189/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
