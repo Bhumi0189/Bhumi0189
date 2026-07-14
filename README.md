@@ -189,7 +189,15 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-08-1E1B2E?style=flat-square"/> GitHub Analytics
+## <img src="https://img.shields.io/badge/-08-1E1B2E?style=flat-square"/> Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumi0189&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
+
+## <img src="https://img.shields.io/badge/-09-1E1B2E?style=flat-square"/> GitHub Analytics
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=Bhumi0189&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="165"/>
@@ -202,7 +210,7 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-09-1E1B2E?style=flat-square"/> GitHub Trophies
+## <img src="https://img.shields.io/badge/-10-1E1B2E?style=flat-square"/> GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Bhumi0189&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
@@ -210,7 +218,7 @@ Engaged as sole developer to design, build, and deploy a production-ready MERN e
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-10-1E1B2E?style=flat-square"/> Current Focus
+## <img src="https://img.shields.io/badge/-11-1E1B2E?style=flat-square"/> Current Focus
 
 ```yaml
 learning:
@@ -230,7 +238,7 @@ open_to:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:4C1D95&height=2&width=100%"/>
 
-## <img src="https://img.shields.io/badge/-11-1E1B2E?style=flat-square"/> Connect
+## <img src="https://img.shields.io/badge/-12-1E1B2E?style=flat-square"/> Connect
 
 <p align="center">
 <a href="mailto:mbhumi916@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B2E"/></a>
